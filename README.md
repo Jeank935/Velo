@@ -16,9 +16,11 @@ Somos un equipo que integra seguridad, backend, frontend, UX/UI, bases de datos 
 
 Nos enfocamos en conectar modelos, conocimiento y herramientas con los procesos de las organizaciones, mediante soluciones que puedan evaluarse, mantenerse y evolucionar.
 
-# Misión: Multiplicar la capacidad innovadora de las organizaciones integrando equipos de agentes autónomos especializados que ejecutan flujos de trabajo de ingeniería de software complejos con máxima velocidad, precisión y adaptabilidad continua.
+# Misión: 
+Multiplicar la capacidad innovadora de las organizaciones integrando equipos de agentes autónomos especializados que ejecutan flujos de trabajo de ingeniería de software complejos con máxima velocidad, precisión y adaptabilidad continua.
 
-Visión: Ser el referente pionero en el que las empresas deleguen el desarrollo técnico de alto impacto, convirtiendo la intuición estratégica y la arquitectura de software en productos digitales listos para producción en tiempos récord.
+# Visión: 
+Ser el referente pionero en el que las empresas deleguen el desarrollo técnico de alto impacto, convirtiendo la intuición estratégica y la arquitectura de software en productos digitales listos para producción en tiempos récord.
 ---
 
 ## 🧠 Inteligencia artificial
