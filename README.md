@@ -1,4 +1,4 @@
-# Veloce Estudio
+# Velo
 ## Equipo multifuncional de desarrollo de software
 
 Somos **Velo**, un equipo que integra distintas especialidades para desarrollar soluciones de software centradas en las necesidades de las personas. Trabajamos de manera colaborativa, con responsabilidades claras y un objetivo compartido: entregar productos útiles, seguros y fáciles de mantener.
