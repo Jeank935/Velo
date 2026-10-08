@@ -1,90 +1,111 @@
-<p align="center">
-  <img src="./velo-logo.png" alt="Logo de Velo" width="88">
-</p>
-
 <h1 align="center">VELO</h1>
 
 <p align="center">
-  <strong>Ingeniería de software e inteligencia artificial</strong>
+  <strong>Ingeniería de software · Inteligencia artificial · Ciberseguridad</strong>
 </p>
 
 <p align="center">
-  Construimos soluciones que conectan conocimiento, herramientas y procesos de negocio.
+  Un equipo multifuncional para construir soluciones inteligentes y conectarlas con el negocio.
 </p>
 
 ---
 
-## Quiénes somos
+## Sobre Velo
 
-**Velo** es un equipo multifuncional que integra desarrollo de software, inteligencia artificial y ciberseguridad para transformar necesidades de negocio en productos digitales.
+Somos un equipo que integra seguridad, backend, frontend, UX/UI, bases de datos y arquitectura de software para desarrollar productos digitales con inteligencia artificial.
 
-Nuestra propuesta combina seis especialidades que trabajan sobre un mismo objetivo: construir soluciones útiles para las personas, confiables en su operación y preparadas para evolucionar.
+Nos enfocamos en conectar modelos, conocimiento y herramientas con los procesos de las organizaciones, mediante soluciones que puedan evaluarse, mantenerse y evolucionar.
 
 ## Misión
 
-Diseñar y desarrollar soluciones de software e inteligencia artificial que permitan a las organizaciones aprovechar su información, automatizar procesos y mejorar sus servicios, con seguridad desde el diseño y una experiencia centrada en sus usuarios.
+Desarrollar soluciones de software e inteligencia artificial que permitan aprovechar la información y automatizar procesos, con seguridad desde el diseño y una experiencia centrada en las personas.
 
 ## Visión
 
-Ser un equipo referente en ingeniería de software e inteligencia artificial aplicada, reconocido por convertir desafíos complejos en soluciones confiables que generen valor sostenible para las organizaciones.
-
-## Capacidades tecnológicas
-
-| Capacidad | Aplicación en el negocio |
-| :--- | :--- |
-| **Modelos de lenguaje · LLM** | Asistentes especializados, procesamiento de documentos, extracción de información y generación de contenido. |
-| **Conocimiento empresarial · RAG** | Consulta de documentación interna mediante recuperación de información, respuestas contextualizadas y referencias a las fuentes. |
-| **Integración de herramientas · MCP** | Conexión de aplicaciones de IA con herramientas y fuentes de datos, junto con las APIs existentes. |
-| **Sistemas agénticos · Agentic AI** | Automatización de tareas de varios pasos mediante agentes con herramientas, permisos definidos y supervisión humana. |
-| **Infraestructura cloud** | Despliegue de aplicaciones y agentes con gestión de identidades, monitoreo y control de costos. |
-| **Desarrollo de software** | Aplicaciones web, servicios backend e integraciones que incorporan estas capacidades en los procesos de la organización. |
-
-## Nuestro equipo
-
-### Seguridad
-Protege la información y define los límites de acceso de usuarios y agentes. Colabora con las demás áreas para evaluar amenazas, resguardar credenciales y controlar las acciones sobre sistemas externos.
-
-### Backend
-Implementa la lógica de negocio y los servicios del producto. Integra modelos de lenguaje, recuperación de conocimiento y herramientas, coordinando su funcionamiento con las APIs y los datos.
-
-### Frontend
-Construye la interfaz entre las personas y el sistema. Permite interactuar con asistentes, consultar fuentes y supervisar tareas, con estados claros de carga, error y resultado.
-
-### UX/UI
-Investiga las necesidades del usuario y diseña experiencias comprensibles. Define cómo comunicar las capacidades de la IA y cuándo solicitar revisión o aprobación humana.
-
-### Base de datos
-Organiza la información y asegura su integridad. Diseña modelos, consultas e índices para las operaciones del sistema y la recuperación de conocimiento, utilizando búsqueda vectorial cuando corresponde.
-
-### Arquitectura de software
-Define los componentes y sus integraciones. Coordina las decisiones técnicas para equilibrar seguridad, rendimiento, costos y facilidad de mantenimiento.
-
-## Cómo trabajamos
-
-**01 · Comprensión del problema**  
-Definimos las necesidades del negocio, los usuarios y los criterios de éxito.
-
-**02 · Diseño de la solución**  
-Acordamos la experiencia, la arquitectura y los controles de seguridad. Evaluamos dónde la IA aporta una mejora concreta.
-
-**03 · Desarrollo e integración**  
-Construimos mediante entregas pequeñas, contratos claros entre componentes y revisiones compartidas.
-
-**04 · Evaluación y evolución**  
-Verificamos el funcionamiento del producto y el comportamiento de la IA. Utilizamos evidencia y retroalimentación para priorizar mejoras.
-
-## Nuestro criterio de calidad
-
-- **Resultados verificables:** pruebas y criterios de aceptación para las funciones del producto.
-- **Acceso controlado:** permisos delimitados para usuarios, servicios y agentes.
-- **Trazabilidad:** registro de operaciones para revisar acciones e investigar errores.
-- **Supervisión humana:** aprobación en operaciones sensibles según su impacto.
-- **Eficiencia operativa:** evaluación de calidad, latencia y costo por tarea.
-- **Continuidad técnica:** documentación útil y componentes con responsabilidades claras.
+Ser un equipo referente en ingeniería de soluciones inteligentes, reconocido por transformar desafíos complejos en productos confiables que generen valor para las organizaciones.
 
 ---
 
-<p align="center">
-  <strong>VELO</strong><br>
-  Ingeniería para llevar la inteligencia artificial a la operación real.
-</p>
+## 🧠 Inteligencia artificial
+
+![LLM](https://img.shields.io/badge/LLM-Modelos_de_lenguaje-6366F1?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Conocimiento_empresarial-0891B2?style=for-the-badge)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-Agentes_inteligentes-7C3AED?style=for-the-badge)
+
+Asistentes especializados, consulta de documentos y automatización de tareas mediante agentes con herramientas y límites de acción definidos.
+
+---
+
+## 🔗 Herramientas e integraciones
+
+![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-111827?style=for-the-badge)
+![APIs](https://img.shields.io/badge/APIs-Integración_de_servicios-2563EB?style=for-the-badge)
+![Workflows](https://img.shields.io/badge/Workflows-Automatización-0D9488?style=for-the-badge)
+
+Conexión de aplicaciones de IA con fuentes de datos y servicios existentes. Coordinación de flujos de trabajo con permisos y supervisión.
+
+---
+
+## ☁️ Cloud y operación
+
+![Cloud](https://img.shields.io/badge/Cloud-Infraestructura-0284C7?style=for-the-badge)
+![Deployment](https://img.shields.io/badge/Deployment-Aplicaciones_y_agentes-334155?style=for-the-badge)
+![Observability](https://img.shields.io/badge/Observability-Monitoreo-059669?style=for-the-badge)
+
+Despliegue de servicios y agentes en la nube, con monitoreo de su funcionamiento y evaluación de latencia y costos.
+
+---
+
+## 🛡️ Seguridad
+
+![Security](https://img.shields.io/badge/Security-Seguridad_desde_el_diseño-0F172A?style=for-the-badge)
+![Access Control](https://img.shields.io/badge/Access_Control-Permisos-DC2626?style=for-the-badge)
+![AI Security](https://img.shields.io/badge/AI_Security-Protección_de_sistemas_IA-9333EA?style=for-the-badge)
+
+Protección de datos y credenciales. Evaluación de amenazas y control de las herramientas y acciones disponibles para cada agente.
+
+---
+
+## ⚙️ Backend
+
+![Backend](https://img.shields.io/badge/Backend-Lógica_de_negocio-16A34A?style=for-the-badge)
+![Services](https://img.shields.io/badge/Services-APIs_e_integraciones-0369A1?style=for-the-badge)
+
+Servicios que conectan las operaciones del negocio con modelos, herramientas y datos, con validaciones y pruebas de los procesos principales.
+
+---
+
+## 🎨 Frontend y UX/UI
+
+![Frontend](https://img.shields.io/badge/Frontend-Interfaces_web-2563EB?style=for-the-badge)
+![UX](https://img.shields.io/badge/UX-Experiencia_de_usuario-DB2777?style=for-the-badge)
+![UI](https://img.shields.io/badge/UI-Diseño_de_interfaces-EA580C?style=for-the-badge)
+
+Experiencias claras para interactuar con asistentes, consultar fuentes y supervisar tareas. Diseño de flujos que facilitan la revisión humana.
+
+---
+
+## 🗄️ Datos y conocimiento
+
+![Databases](https://img.shields.io/badge/Databases-Datos_estructurados-0369A1?style=for-the-badge)
+![Vector Search](https://img.shields.io/badge/Vector_Search-Búsqueda_semántica-7C3AED?style=for-the-badge)
+![Data Quality](https://img.shields.io/badge/Data_Quality-Integridad_y_calidad-0D9488?style=for-the-badge)
+
+Organización de información y recuperación de conocimiento para aplicaciones RAG, con fuentes autorizadas y criterios de calidad.
+
+---
+
+## 🏗️ Arquitectura de software
+
+![Architecture](https://img.shields.io/badge/Architecture-Diseño_de_sistemas-334155?style=for-the-badge)
+![Maintainability](https://img.shields.io/badge/Maintainability-Evolución_del_software-059669?style=for-the-badge)
+
+Componentes con responsabilidades claras e integraciones documentadas. Decisiones técnicas que consideran seguridad, rendimiento y mantenimiento.
+
+---
+
+## Nuestro compromiso
+
+**Un equipo integrado, con responsabilidad sobre el producto completo.**
+
+Definimos criterios de éxito, validamos las soluciones y documentamos las decisiones importantes. Incorporamos inteligencia artificial donde aporta valor y supervisión humana donde el impacto de las acciones lo requiere.
