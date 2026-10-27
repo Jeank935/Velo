@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 260" role="img" aria-labelledby="title">
+  <title id="title">VELO</title>
+  <g fill="#183c35">
+    <path d="M42 40h54l65 135 65-135h54l-91 180h-56z"/>
+    <path d="M308 40h166v43H358v26h101v42H358v26h116v43H308z"/>
+    <path d="M514 40h50v137h112v43H514z"/>
+    <path fill-rule="evenodd" d="M807 36c58 0 95 38 95 94s-37 94-95 94-95-38-95-94 37-94 95-94zm0 45c-28 0-45 18-45 49s17 49 45 49 45-18 45-49-17-49-45-49z"/>
+  </g>
+</svg>
