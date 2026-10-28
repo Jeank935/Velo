@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/Software-Arquitectura_y_desarrollo-183C35?style=flat-square" alt="Software · Arquitectura y desarrollo">
 </p>
 
-## Sobre Velo
+## Sobre VelociRaptor
 
 Somos un equipo de desarrollo de software que integra arquitectura, backend, frontend, UX/UI, datos y ciberseguridad para construir productos digitales con inteligencia artificial.
 
