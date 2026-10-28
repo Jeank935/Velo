@@ -59,7 +59,7 @@ Ser un referente en el desarrollo de software con agentes autónomos, convirtien
 - Conectamos el desarrollo con los procesos y objetivos del negocio.
 - Definimos criterios de éxito y documentamos las decisiones de arquitectura.
 - Validamos los procesos principales y evaluamos el funcionamiento de las soluciones.
-- Incorporamos inteligencia artificial donde aporta valor y supervisión humana donde el impacto de las acciones lo requiere.
+- Incorporamos inteligencia artificial donde aporta valor y supervisión humana donde el impacto de las acciones lo requiere
 
 ## Conversemos
 
