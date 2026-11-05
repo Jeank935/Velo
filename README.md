@@ -1,4 +1,4 @@
-<img width="1254" height="1254" alt="Logotipo VeloR_ Raptor tecnológico neon" src="https://github.com/user-attachments/assets/83bfc68e-1aef-4507-9b92-afe9d9d7524a" />
+<img width="1536" height="1024" alt="Símbolo abstracto de IA conectada" src="https://github.com/user-attachments/assets/0e8d16f7-d208-4147-8a06-0d5f643cca62" />
 
 
 <h1 align="center">Ingeniería de software con inteligencia artificial</h1>
